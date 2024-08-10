@@ -76,7 +76,7 @@ def takeImages():
         if (is_number(Id)):
             print("Enter Alphabetical Name")
         if (name.isalpha()):
-            print("Enter Numeric ID")
+            print("Enter Numeric ID ")
 
 
 
